@@ -1,4 +1,4 @@
-[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
+[Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)(for personal use in a project)
 ---
 - Rainbow is a combination of aspects from the following algorithms:
 	- DQN(Deep Q-Networks)
